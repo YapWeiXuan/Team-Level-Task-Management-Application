@@ -6,6 +6,7 @@ A team level task management web application utilizing Angular.js framework (Typ
 
 
 ![image](https://github.com/user-attachments/assets/9868e722-b982-4630-af22-4686d10c894f)
+![image](https://github.com/user-attachments/assets/064f3f6f-4865-443b-8eda-fb3f2f52764f)
 
 
 
