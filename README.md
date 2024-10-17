@@ -2,20 +2,20 @@
 A team level task management web application utilizing Angular.js framework (TypeScript) for the front-end and ASP.NET Core framework (C#) for the back-end. SQL Server data base instance is used to store the users' task data. Web application is deployed in Microsoft Azure.
 
 # Application Usage Showcase
-1. Application Home Page
-![image](https://github.com/user-attachments/assets/fb4d0291-c8c0-4f65-9373-6240c12ded5f)
+1. Application Home Page    
+![image](https://github.com/user-attachments/assets/fb4d0291-c8c0-4f65-9373-6240c12ded5f)    
 
-2. Select a User's name to view their respective tasks which each task detailing the task's title , description and due date.
-![image](https://github.com/user-attachments/assets/0cd485fe-59a8-4840-8007-2ba45c9ab107)
+2. Select a User's name to view their respective tasks which each task detailing the task's title , description and due date.    
+![image](https://github.com/user-attachments/assets/0cd485fe-59a8-4840-8007-2ba45c9ab107)    
 
-3. Click "Add Task" to open dialog box to fill in the new task information. Then click "Create" to add the task or "Cancel" to exit dialog box without adding.
-![image](https://github.com/user-attachments/assets/064f3f6f-4865-443b-8eda-fb3f2f52764f)
+3. Click "Add Task" to open dialog box to fill in the new task information. Then click "Create" to add the task or "Cancel" to exit dialog box without adding.   
+![image](https://github.com/user-attachments/assets/064f3f6f-4865-443b-8eda-fb3f2f52764f)   
 
-4. Added new task in the homepage
-![image](https://github.com/user-attachments/assets/2af35721-b30b-4174-b6ed-6f93c0a57bd9)
+4. Added new task in the homepage   
+![image](https://github.com/user-attachments/assets/2af35721-b30b-4174-b6ed-6f93c0a57bd9)   
 
-5. Click "Complete" to remove task from the selected user's task list
-![image](https://github.com/user-attachments/assets/a89d7b40-692a-4505-b8ea-089801b1e697)
+5. Click "Complete" to remove task from the selected user's task list   
+![image](https://github.com/user-attachments/assets/a89d7b40-692a-4505-b8ea-089801b1e697)    
 
 
 # Future Add Ons and Improvements
