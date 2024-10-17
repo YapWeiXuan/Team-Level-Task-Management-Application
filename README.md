@@ -4,3 +4,8 @@ A team level task management web application utilizing Angular.js framework (Typ
 # Application Usage Showcase
 ![image](https://github.com/user-attachments/assets/fb4d0291-c8c0-4f65-9373-6240c12ded5f)
 
+
+![image](https://github.com/user-attachments/assets/9868e722-b982-4630-af22-4686d10c894f)
+
+
+
