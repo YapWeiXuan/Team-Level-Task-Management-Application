@@ -6,6 +6,11 @@ A team level task management web application utilizing Angular.js framework (Typ
 In Visual Studio Code terminal, run "npm install" > "ng serve" at the cloned frontend_final directory. 
 #### For Backend
 Open Docker Desktop and download the nuget packages Microsoft.AspNetCore.Mvc.NewtonsoftJson (Version: 8.0.4) , Microsoft.Data.SqlClient (Version: 5.1.6) in Visual Studio , click "Run Container (Dockerfile)".
+Add the SQL Connection String from the SQL Database instance in Microsoft Azure into the backend_final_soln/backend_final_proj/appsettings.json file       
+![image](https://github.com/user-attachments/assets/ae72368d-8b3a-45c9-8f62-8fa93e479c3f)   
+From Microsoft Azure:   
+![image](https://github.com/user-attachments/assets/c40f6932-e9cc-412f-9a6a-e9416a169c2c)    
+
 
 # Application Usage Showcase
 1. Application Home Page    
