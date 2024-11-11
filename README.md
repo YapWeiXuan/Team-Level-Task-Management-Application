@@ -3,7 +3,7 @@ A team level task management web application utilizing Angular.js framework (Typ
 
 ### Updates (As of 11 Nov 2024)
 #### Implemented Entity Framework (Microsoft.EntityFrameworkCore.SqlServer V8.0.6 & Microsoft.EntityFrameworkCore.Tools V8.0.10) on the BackEnd (backend_final_soln)
-
+#### WIP: Configure FrontEnd EndPoints to accept BackEnd's EF outputs
 
 
 ### Start Application Procedure
