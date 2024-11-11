@@ -1,6 +1,9 @@
 # Team-Level-Task-Management-Application
 A team level task management web application utilizing Angular.js framework (TypeScript) for the front-end and ASP.NET Core framework (C#) for the back-end. SQL Server data base instance is used to store the users' task data. Web application is deployed in Microsoft Azure.
 
+### Updates (As of 11 Nov 2024)
+#### Implemented Entity Framework (Microsoft.EntityFrameworkCore.SqlServer V8.0.6 & Microsoft.EntityFrameworkCore.Tools V8.0.10) on the BackEnd (backend_final_soln)
+
 ### Start Application
 #### For Frontend
 In Visual Studio Code terminal, run "npm install" > "ng serve" at the cloned frontend_final directory. 
